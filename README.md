@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on lots of .NET MAUI stuff 😍
-- 💬 Ask me about .NET MAUI
+- 💬 Ask me about .NET MAUI, Xamarin, Blazor or anything .NET
 - 📫 How to reach me: @mattgoldman
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am an Iron Man 💪 (Busselton 2014)
