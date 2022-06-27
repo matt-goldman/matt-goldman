@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently writing [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action)
+- 🔭 I’m currently writing [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097)
 - 💬 Ask me about .NET MAUI, Xamarin, Blazor or anything .NET
 - 📫 How to reach me: @mattgoldman
 - 🗞️ https://goforgoldman.com
