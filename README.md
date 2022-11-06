@@ -4,7 +4,7 @@
 - 💬 Ask me about .NET MAUI, Xamarin, Blazor or anything .NET
 - 📫 How to reach me:
     - 🐦: @mattgoldman
-    - 📺: https://www.youtube.com/channel/@goforgoldman
+    - 📺: https://www.youtube.com/@goforgoldman
     - 🌐: https://goforgoldman.com
     - 🐘: @mattgoldman@mastodon.social
 - 😄 Pronouns: He/him
