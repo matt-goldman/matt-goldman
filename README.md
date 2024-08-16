@@ -19,8 +19,9 @@ Hi, I'm Matt, and I love mobile dev, .NET, Azure, VR, motorcycles, science, Supe
 
 
 ## 📖 Check out my book
-
-[.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097)
+<a href="https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097">
+<img src="https://github.com/user-attachments/assets/41536451-0acb-4f75-b96c-f042e08f6c90" alt=".NET MAUI in Action cover image" width="250px"><br>
+.NET MAUI in Action</a>
 
 ## ⚡ Fun facts
 
